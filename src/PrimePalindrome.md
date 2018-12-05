@@ -1,5 +1,4 @@
-#866. Prime Palindrome
-Alt-H1
+866. Prime Palindrome
 ======
 
 ```
