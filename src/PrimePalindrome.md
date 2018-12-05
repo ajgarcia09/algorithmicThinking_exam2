@@ -15,7 +15,7 @@ to right as it does from right to left.
 For example, 12321 is a palindrome.
 ```
 
-##Using I.D.E.A.L
+## Using I.D.E.A.L
 
 I.D.E.A.L helped me in solving this problem by focusing on the identification
 of the problem. I had a difficult time in determining just what the question
@@ -29,7 +29,7 @@ for in the problem definition.
 
 ***
 
-##Using Duke's Seven Steps
+## Using Duke's Seven Steps
 
 Duke's Seven Steps was helpful in analyzing this problem because I started working
 with small instances by hand, in this case, I tried out different input values
