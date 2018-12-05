@@ -1,6 +1,8 @@
 # 866. Prime Palindrome
 ======
 
+https://leetcode.com/problems/prime-palindrome/solution/
+
 ```
 Find the smallest prime palindrome greater than or equal to N.
 
