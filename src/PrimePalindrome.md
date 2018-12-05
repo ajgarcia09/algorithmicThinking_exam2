@@ -1,5 +1,4 @@
 #866. Prime Palindrome
-Alt-H1
 ======
 
 ```
